@@ -1,24 +1,5 @@
-# README
+# Stories of Abdu’l-Baha - The Perfect Exemplar
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created in Honor of the 100th Anniversary of the His Passing.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please contact me at icemission@gmail.com if you like to contribute to the development.
